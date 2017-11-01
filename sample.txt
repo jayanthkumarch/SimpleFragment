@@ -1,0 +1,870 @@
+{
+    "Addresses": [
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-f1dfb445", 
+            "AssociationId": "eipassoc-14934523", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.232.210", 
+            "AllocationId": "eipalloc-c1844ff4", 
+            "PrivateIpAddress": "172.16.11.14"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0108f9f18c992d8ac", 
+            "NetworkInterfaceId": "eni-01658ca2", 
+            "AssociationId": "eipassoc-0a0b543e", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.156.170.198", 
+            "AllocationId": "eipalloc-2fe3901d", 
+            "PrivateIpAddress": "172.28.6.110"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-f55c5541", 
+            "AssociationId": "eipassoc-b161e386", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.8.219", 
+            "AllocationId": "eipalloc-097fcb3c", 
+            "PrivateIpAddress": "172.16.46.5"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0795820c16e3d1c63", 
+            "NetworkInterfaceId": "eni-cc1e5746", 
+            "AssociationId": "eipassoc-385dc60f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.230.136.71", 
+            "AllocationId": "eipalloc-03c2f730", 
+            "PrivateIpAddress": "172.28.6.186"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ba67cf0d", 
+            "AssociationId": "eipassoc-4a14557d", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.225.244.107", 
+            "AllocationId": "eipalloc-ff50c1ca", 
+            "PrivateIpAddress": "172.16.48.6"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-8f4c4173", 
+            "NetworkInterfaceId": "eni-9e311cc5", 
+            "AssociationId": "eipassoc-211ebd46", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.6.125.61", 
+            "AllocationId": "eipalloc-9c3b53f9", 
+            "PrivateIpAddress": "172.28.7.196"
+        }, 
+        {
+            "PublicIp": "52.207.187.188", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-f199a4ce"
+        }, 
+        {
+            "PublicIp": "34.193.142.232", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-4cba4572"
+        }, 
+        {
+            "PublicIp": "52.207.201.217", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-4ae2aa76"
+        }, 
+        {
+            "PublicIp": "34.236.115.187", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-53e92a66"
+        }, 
+        {
+            "PublicIp": "52.72.4.88", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-d2a6a9ed"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-5818564f", 
+            "AssociationId": "eipassoc-e336f5d7", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.231.76.55", 
+            "AllocationId": "eipalloc-18c9cc2b", 
+            "PrivateIpAddress": "172.16.251.95"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-00eacd22258339a0d", 
+            "NetworkInterfaceId": "eni-9d204255", 
+            "AssociationId": "eipassoc-e80005dc", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "50.19.176.124", 
+            "AllocationId": "eipalloc-cd5079ff", 
+            "PrivateIpAddress": "172.28.6.187"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-e6212552", 
+            "AssociationId": "eipassoc-f366e3c4", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.225.69.169", 
+            "AllocationId": "eipalloc-23dc7416", 
+            "PrivateIpAddress": "172.16.42.7"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0ce07c7e8230d4522", 
+            "NetworkInterfaceId": "eni-e8e06962", 
+            "AssociationId": "eipassoc-1dd9642a", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.235.189.149", 
+            "AllocationId": "eipalloc-8c6cb5b9", 
+            "PrivateIpAddress": "172.28.6.30"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-00951b55a83adf7e0", 
+            "NetworkInterfaceId": "eni-9e30ba14", 
+            "AssociationId": "eipassoc-68e55a5f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.226.41.60", 
+            "AllocationId": "eipalloc-d3a20ee6", 
+            "PrivateIpAddress": "172.28.6.168"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-9f9d2215", 
+            "AssociationId": "eipassoc-3ff27708", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.234.182.18", 
+            "AllocationId": "eipalloc-baad598f", 
+            "PrivateIpAddress": "192.168.99.51"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-5b3c0f89", 
+            "AssociationId": "eipassoc-279a3d12", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.230.195.224", 
+            "AllocationId": "eipalloc-94951da7", 
+            "PrivateIpAddress": "172.29.1.86"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-b52eeb02", 
+            "AssociationId": "eipassoc-04ee8333", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.4.72.64", 
+            "AllocationId": "eipalloc-17bf3f22", 
+            "PrivateIpAddress": "172.16.180.5"
+        }, 
+        {
+            "PublicIp": "34.235.174.151", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-28f3301d"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ee771d5a", 
+            "AssociationId": "eipassoc-7eac7a49", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.20.96", 
+            "AllocationId": "eipalloc-1bb77c2e", 
+            "PrivateIpAddress": "172.16.8.11"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-011eb636", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.82.198.48", 
+            "AllocationId": "eipalloc-06fe0033", 
+            "PrivateIpAddress": "192.168.99.6"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-4ed69b59", 
+            "AssociationId": "eipassoc-c447bff0", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.231.231.13", 
+            "AllocationId": "eipalloc-f9b189ca", 
+            "PrivateIpAddress": "10.10.10.110"
+        }, 
+        {
+            "PublicIp": "34.200.63.106", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-dbeb17ea"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-fc177ccb", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.193.117.148", 
+            "AllocationId": "eipalloc-fd6213cf", 
+            "PrivateIpAddress": "192.168.99.39"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-4eb4e0fa", 
+            "AssociationId": "eipassoc-c4e340f3", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.201.183.36", 
+            "AllocationId": "eipalloc-13fb2326", 
+            "PrivateIpAddress": "172.16.98.12"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-1911b92e", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.225.85.139", 
+            "AllocationId": "eipalloc-fa61fdca", 
+            "PrivateIpAddress": "192.168.99.88"
+        }, 
+        {
+            "PublicIp": "34.234.111.175", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-b104e684"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0eba5083d8bcd12ef", 
+            "NetworkInterfaceId": "eni-c3851749", 
+            "AssociationId": "eipassoc-62c17a55", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.235.254.183", 
+            "AllocationId": "eipalloc-7746e842", 
+            "PrivateIpAddress": "172.28.6.135"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-08894a62a336f0a2b", 
+            "NetworkInterfaceId": "eni-97fe771d", 
+            "AssociationId": "eipassoc-6ed26f59", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.203.127.244", 
+            "AllocationId": "eipalloc-aafc519f", 
+            "PrivateIpAddress": "172.28.6.116"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-a81cb49f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.21.161.31", 
+            "AllocationId": "eipalloc-a384b3c6", 
+            "PrivateIpAddress": "192.168.99.17"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-227ee1a8", 
+            "AssociationId": "eipassoc-3803b90f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.205.6.28", 
+            "AllocationId": "eipalloc-f555fcc0", 
+            "PrivateIpAddress": "192.168.101.110"
+        }, 
+        {
+            "PublicIp": "34.207.43.30", 
+            "Domain": "vpc", 
+            "AllocationId": "eipalloc-da64f8ea"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-eea76e59", 
+            "AssociationId": "eipassoc-bcabc18b", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.234.9.236", 
+            "AllocationId": "eipalloc-afd25e9a", 
+            "PrivateIpAddress": "172.16.1.5"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-e7963f50", 
+            "AssociationId": "eipassoc-d382c4e4", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.234.156.40", 
+            "AllocationId": "eipalloc-40fe8d72", 
+            "PrivateIpAddress": "172.17.0.12"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0198e89356c76709f", 
+            "NetworkInterfaceId": "eni-32f25cb8", 
+            "AssociationId": "eipassoc-bf6ccc88", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.202.255.66", 
+            "AllocationId": "eipalloc-6e4ea95e", 
+            "PrivateIpAddress": "172.28.6.36"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-fdd00b4a", 
+            "AssociationId": "eipassoc-e296e9d5", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.71.238.211", 
+            "AllocationId": "eipalloc-07a82232", 
+            "PrivateIpAddress": "172.16.51.13"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-2d12791a", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.121.207", 
+            "AllocationId": "eipalloc-d4916fe1", 
+            "PrivateIpAddress": "192.168.99.82"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-e824125c", 
+            "AssociationId": "eipassoc-7b64d94c", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.44.51.16", 
+            "AllocationId": "eipalloc-6eb8155b", 
+            "PrivateIpAddress": "172.16.99.12"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-030bddc07a0123228", 
+            "NetworkInterfaceId": "eni-fe32b574", 
+            "AssociationId": "eipassoc-0bfd4b3c", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.194.42.201", 
+            "AllocationId": "eipalloc-cc3a3dfd", 
+            "PrivateIpAddress": "172.28.6.209"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0517c9937fbdca2e8", 
+            "NetworkInterfaceId": "eni-d30d3e59", 
+            "AssociationId": "eipassoc-55e39062", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.231.250.163", 
+            "AllocationId": "eipalloc-c6e76ff3", 
+            "PrivateIpAddress": "172.28.6.241"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ca6aa27d", 
+            "AssociationId": "eipassoc-aa5c299d", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.237.54.174", 
+            "AllocationId": "eipalloc-965ad6a3", 
+            "PrivateIpAddress": "172.16.173.9"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-246dc193", 
+            "AssociationId": "eipassoc-c8d195ff", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.206.89.179", 
+            "AllocationId": "eipalloc-ff9600ca", 
+            "PrivateIpAddress": "172.16.15.13"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0abf0708d760bef38", 
+            "NetworkInterfaceId": "eni-0528678f", 
+            "AssociationId": "eipassoc-f7b820c0", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.200.95.15", 
+            "AllocationId": "eipalloc-08bdc638", 
+            "PrivateIpAddress": "172.28.6.103"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-0763eeb0", 
+            "AssociationId": "eipassoc-74500143", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.201.54.159", 
+            "AllocationId": "eipalloc-3043d805", 
+            "PrivateIpAddress": "172.16.3.14"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-70a2e3ce", 
+            "AssociationId": "eipassoc-9a967cad", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.225.221.162", 
+            "AllocationId": "eipalloc-5f78f56f", 
+            "PrivateIpAddress": "10.3.10.65"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-89dda09e", 
+            "AssociationId": "eipassoc-b19da084", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.226.92.243", 
+            "AllocationId": "eipalloc-33edce00", 
+            "PrivateIpAddress": "192.168.241.93"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0dda1ddef8351376f", 
+            "NetworkInterfaceId": "eni-0523018f", 
+            "AssociationId": "eipassoc-70b1d947", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.193.4.116", 
+            "AllocationId": "eipalloc-2e24741f", 
+            "PrivateIpAddress": "172.28.6.95"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-05ad76d6926fc63f5", 
+            "NetworkInterfaceId": "eni-01f05e8b", 
+            "AssociationId": "eipassoc-8c6bcbbb", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.224.186.83", 
+            "AllocationId": "eipalloc-7e41a64e", 
+            "PrivateIpAddress": "172.28.6.225"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0fcae50a45d65ac7d", 
+            "NetworkInterfaceId": "eni-b55d703f", 
+            "AssociationId": "eipassoc-911d76a6", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.228.1.49", 
+            "AllocationId": "eipalloc-41837a72", 
+            "PrivateIpAddress": "172.28.6.67"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-1c1cb42b", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.233.7.228", 
+            "AllocationId": "eipalloc-16ce0423", 
+            "PrivateIpAddress": "192.168.99.85"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0fa9e14963921abfb", 
+            "NetworkInterfaceId": "eni-b077a219", 
+            "AssociationId": "eipassoc-f6bcaec3", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "50.16.160.97", 
+            "AllocationId": "eipalloc-98011ba9", 
+            "PrivateIpAddress": "172.28.7.51"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-06f25af02b961d448", 
+            "NetworkInterfaceId": "eni-14bd8e9e", 
+            "AssociationId": "eipassoc-fe3042c9", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.86.223.105", 
+            "AllocationId": "eipalloc-e400a8d7", 
+            "PrivateIpAddress": "172.28.6.220"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-013e8cb6dc948b846", 
+            "NetworkInterfaceId": "eni-1d083b97", 
+            "AssociationId": "eipassoc-17e29120", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.197.133.236", 
+            "AllocationId": "eipalloc-97fb73a2", 
+            "PrivateIpAddress": "172.28.6.12"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-6cb345db", 
+            "AssociationId": "eipassoc-01d1b436", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.234.252.122", 
+            "AllocationId": "eipalloc-76820643", 
+            "PrivateIpAddress": "172.16.66.6"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-913fbf26", 
+            "AssociationId": "eipassoc-46a9fe71", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.194.251.126", 
+            "AllocationId": "eipalloc-936ef6a6", 
+            "PrivateIpAddress": "172.16.9.27"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-01ce19b13fbcf02ba", 
+            "NetworkInterfaceId": "eni-1a1d5490", 
+            "AssociationId": "eipassoc-8b5bc0bc", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.230.103.94", 
+            "AllocationId": "eipalloc-94c0f5a7", 
+            "PrivateIpAddress": "172.28.6.77"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-01c2b767b706c491c", 
+            "NetworkInterfaceId": "eni-b1466b3b", 
+            "AssociationId": "eipassoc-871279b0", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.200.150.145", 
+            "AllocationId": "eipalloc-278e7714", 
+            "PrivateIpAddress": "172.28.6.87"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ab349f1c", 
+            "AssociationId": "eipassoc-45d59472", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.202.45.113", 
+            "AllocationId": "eipalloc-3f3baa0a", 
+            "PrivateIpAddress": "172.16.5.5"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-85cbe06f", 
+            "AssociationId": "eipassoc-99ea02a6", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.80.37.190", 
+            "AllocationId": "eipalloc-0cf9c433", 
+            "PrivateIpAddress": "172.28.59.180"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-e682b152", 
+            "AssociationId": "eipassoc-8978c7be", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.111.178", 
+            "AllocationId": "eipalloc-877fd3b2", 
+            "PrivateIpAddress": "172.16.39.8"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-c34c4977", 
+            "AssociationId": "eipassoc-a823999f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.234.251.71", 
+            "AllocationId": "eipalloc-6144ed54", 
+            "PrivateIpAddress": "172.16.0.4"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-a35b9d14", 
+            "AssociationId": "eipassoc-91422da6", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.119.64", 
+            "AllocationId": "eipalloc-d6a122e3", 
+            "PrivateIpAddress": "172.16.20.14"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-57daa607", 
+            "AssociationId": "eipassoc-72a18e09", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.7.85.155", 
+            "AllocationId": "eipalloc-21d41547", 
+            "PrivateIpAddress": "172.28.7.193"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-f27f472b", 
+            "AssociationId": "eipassoc-032e6d33", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.196.68.123", 
+            "AllocationId": "eipalloc-19cf9f28", 
+            "PrivateIpAddress": "172.18.97.11"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-c519b1f2", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.87.243.44", 
+            "AllocationId": "eipalloc-baf9148f", 
+            "PrivateIpAddress": "192.168.99.20"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-735c7d73", 
+            "AssociationId": "eipassoc-da9573ee", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.233.172.232", 
+            "AllocationId": "eipalloc-2e0b3a1d", 
+            "PrivateIpAddress": "192.168.100.132"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-691cb45e", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.82.39", 
+            "AllocationId": "eipalloc-dd5db7e8", 
+            "PrivateIpAddress": "192.168.99.111"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-1a167d2d", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.165.223.132", 
+            "AllocationId": "eipalloc-10e10c25", 
+            "PrivateIpAddress": "192.168.99.84"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-09fa74d0", 
+            "AssociationId": "eipassoc-67009257", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.197.205.87", 
+            "AllocationId": "eipalloc-79094c48", 
+            "PrivateIpAddress": "172.28.8.11"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0917c1696e29a410d", 
+            "NetworkInterfaceId": "eni-8d3fb807", 
+            "AssociationId": "eipassoc-dbf345ec", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.201.161.58", 
+            "AllocationId": "eipalloc-733a3d42", 
+            "PrivateIpAddress": "172.28.6.73"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-07e4763afeadbfc4f", 
+            "NetworkInterfaceId": "eni-0121038b", 
+            "AssociationId": "eipassoc-43b5dd74", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "54.85.102.232", 
+            "AllocationId": "eipalloc-2f24741e", 
+            "PrivateIpAddress": "172.28.6.69"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-b226f205", 
+            "AssociationId": "eipassoc-86bec9b1", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.195.175.63", 
+            "AllocationId": "eipalloc-6e77f85b", 
+            "PrivateIpAddress": "172.16.17.8"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-626eefc3", 
+            "AssociationId": "eipassoc-33a29f06", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.232.230.8", 
+            "AllocationId": "eipalloc-93eecda0", 
+            "PrivateIpAddress": "192.168.240.96"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ed20284c", 
+            "AssociationId": "eipassoc-7035f644", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.231.192.129", 
+            "AllocationId": "eipalloc-93cfcaa0", 
+            "PrivateIpAddress": "172.16.250.79"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0bab42be7395d7b0e", 
+            "NetworkInterfaceId": "eni-5cc526d1", 
+            "AssociationId": "eipassoc-3fd18608", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.197.153.233", 
+            "AllocationId": "eipalloc-147e1d2a", 
+            "PrivateIpAddress": "172.28.6.43"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0dc4fdb41dbc3d1ce", 
+            "NetworkInterfaceId": "eni-542c63de", 
+            "AssociationId": "eipassoc-2a871f1d", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.225.169.254", 
+            "AllocationId": "eipalloc-45b9c275", 
+            "PrivateIpAddress": "172.28.6.145"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0a5f4f7baf21833e4", 
+            "NetworkInterfaceId": "eni-f5e1687f", 
+            "AssociationId": "eipassoc-5bdb666c", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.233.62", 
+            "AllocationId": "eipalloc-096db43c", 
+            "PrivateIpAddress": "172.28.6.10"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-3b2fa2cc", 
+            "AssociationId": "eipassoc-367e1c06", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.20.63.77", 
+            "AllocationId": "eipalloc-03dba132", 
+            "PrivateIpAddress": "172.28.6.64"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-9f9d2215", 
+            "AssociationId": "eipassoc-1cfe7b2b", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.205.101.106", 
+            "AllocationId": "eipalloc-a0655291", 
+            "PrivateIpAddress": "192.168.99.21"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0e64863d947ea2c32", 
+            "NetworkInterfaceId": "eni-f58ffefb", 
+            "AssociationId": "eipassoc-892da0bb", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.55.145.24", 
+            "AllocationId": "eipalloc-f5c99fca", 
+            "PrivateIpAddress": "172.28.5.49"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-80fbf234", 
+            "AssociationId": "eipassoc-243bb913", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.192.225.82", 
+            "AllocationId": "eipalloc-c74afef2", 
+            "PrivateIpAddress": "172.16.47.13"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-ab7d5471", 
+            "AssociationId": "eipassoc-0bb18438", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.203.126.93", 
+            "AllocationId": "eipalloc-4e9fde7f", 
+            "PrivateIpAddress": "172.28.16.92"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0d54cbfaf53b850ff", 
+            "NetworkInterfaceId": "eni-47bc8fcd", 
+            "AssociationId": "eipassoc-2832401f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.231.181.147", 
+            "AllocationId": "eipalloc-b903ab8a", 
+            "PrivateIpAddress": "172.28.6.83"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-dcb0696b", 
+            "AssociationId": "eipassoc-f3562ac4", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.237.96.165", 
+            "AllocationId": "eipalloc-015cd734", 
+            "PrivateIpAddress": "172.16.4.9"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-762348c2", 
+            "AssociationId": "eipassoc-4411c673", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.6.192.243", 
+            "AllocationId": "eipalloc-850bc3b0", 
+            "PrivateIpAddress": "172.16.45.13"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-9f9d2215", 
+            "AssociationId": "eipassoc-c5f673f2", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.232.254.49", 
+            "AllocationId": "eipalloc-4bcc067e", 
+            "PrivateIpAddress": "192.168.99.81"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-03b4785fea805c9ca", 
+            "NetworkInterfaceId": "eni-659d0fef", 
+            "AssociationId": "eipassoc-58c3786f", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.230.206.231", 
+            "AllocationId": "eipalloc-bb44ea8e", 
+            "PrivateIpAddress": "172.28.6.180"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-4c1c777b", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.195.11.95", 
+            "AllocationId": "eipalloc-f6ba45c8", 
+            "PrivateIpAddress": "192.168.99.29"
+        }, 
+        {
+            "Domain": "vpc", 
+            "NetworkInterfaceId": "eni-2f36e098", 
+            "AssociationId": "eipassoc-3791e700", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.235.55.238", 
+            "AllocationId": "eipalloc-10af2125", 
+            "PrivateIpAddress": "172.16.2.12"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-981fb7af", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "52.3.69.204", 
+            "AllocationId": "eipalloc-01d24478", 
+            "PrivateIpAddress": "192.168.99.124"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0fc5b212e85e2ebc7", 
+            "NetworkInterfaceId": "eni-7d5ab9dc", 
+            "AssociationId": "eipassoc-8f2059ba", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.232.55.173", 
+            "AllocationId": "eipalloc-9a9bd3a9", 
+            "PrivateIpAddress": "192.168.255.26"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-9f9d2215", 
+            "AssociationId": "eipassoc-30f27707", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.237.65.38", 
+            "AllocationId": "eipalloc-dd7dd3e8", 
+            "PrivateIpAddress": "192.168.99.86"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0d81f949922fbeb5b", 
+            "NetworkInterfaceId": "eni-2235bfa8", 
+            "AssociationId": "eipassoc-57e55a60", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.235.164.134", 
+            "AllocationId": "eipalloc-d2a20ee7", 
+            "PrivateIpAddress": "172.28.6.20"
+        }, 
+        {
+            "Domain": "vpc", 
+            "InstanceId": "i-0300f8209308b5901", 
+            "NetworkInterfaceId": "eni-02b27388", 
+            "AssociationId": "eipassoc-591eb66e", 
+            "NetworkInterfaceOwnerId": "405093580753", 
+            "PublicIp": "34.236.20.202", 
+            "AllocationId": "eipalloc-a1f60294", 
+            "PrivateIpAddress": "192.168.99.83"
+        }
+    ]
+}
+
