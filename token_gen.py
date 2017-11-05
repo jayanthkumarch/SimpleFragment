@@ -1,8 +1,6 @@
 import subprocess
 import requests
 import re
-import sys
-import os
 import time
 import json
 import httplib
