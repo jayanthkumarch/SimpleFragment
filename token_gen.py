@@ -1,4 +1,3 @@
-import ssl
 import subprocess
 import requests
 import re
